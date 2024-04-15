@@ -1,0 +1,56 @@
+#main-form{
+    border: 1px none black;
+    margin-top: 100px;
+}
+body{
+    background-image: linear-gradient(to right, #4290f5,white);
+}
+#loginPage{
+    background: rgba(255, 255, 255, 0.3); /* semi-transparent white */
+  backdrop-filter: blur(20px);
+    width: 450px;
+    box-shadow: 1px 1px 1px black;
+    border-radius: 12px;
+}
+#bank_image_container{
+   
+    height: 330px;
+    width: 450px;
+}
+#bank_image_container img{
+    height: 330px;
+    width: 450px;
+    box-shadow: 1px 1px 1px black;
+}
+#loginPage:hover{
+    box-shadow: 1px 1px 1px 1px  black;
+
+}
+#bank_image_container img:hover{
+    box-shadow: 2px 2px 2px 2px black;
+}
+#loginform button{
+    box-shadow: 1px 1px 1px black;
+}
+
+body header{
+    border: 1px none black;
+}
+#input-box .input-box i{
+    position: absolute;
+    right: 20px;
+}
+.input_container{
+    position: relative;
+
+}
+.icon{
+    padding: 10px;
+    color: gray;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.checkbox-container a{
+margin-left: 150px;
+}

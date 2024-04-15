@@ -1,0 +1,18 @@
+#sidebar{
+    margin-left:0px;
+    width: 300px;
+    height: 100vh;
+}
+#sidebar button{
+    width: 280px;
+}
+#sidebar button:hover{
+    background-color: #4290f5;
+}
+#main_content{
+    height: 100vh;
+}
+#sidebar img{
+    height: 40px;
+    width: 40px;
+}
