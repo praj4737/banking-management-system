@@ -20,7 +20,7 @@ import java.util.Properties;
 public class LoginController{
 
 
-    public static void main(String[] args)throws IOException {
+    public static void main(String[] args) throws Exception {
 
         //Connection con= DBConnection.getDBConnection();
         System.out.println(DBConnection.getDBConnection());
